@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard-Amos
+- 👋 Hi, I’m Richard-Amos and I'm an 11 year old web developer
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on with other developers
